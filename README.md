@@ -3,7 +3,7 @@
 ## 视频教程看这里
 [免费白嫖10年VPS服务器serv00 并且一键部署自己的专属自建Vless节点 ｜小白教程｜自动化批量保号](https://youtu.be/QnlzpvDl_mo)
 
-利用github Action以及python脚本实现
+利用github Action以及pytho
 
 🙏🙏🙏点个Star！！Star！！Star！！
 
